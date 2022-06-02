@@ -1,7 +1,7 @@
 # Jogo da velha
 ## Integrantes
 ### NOME COMPLETO
-### NOME COMPLETO
+### Alan Santana
 
 | -  |  A     | B     | C     |
 | -- | :---:  | :---: | :---: |
